@@ -1,0 +1,13 @@
+node_modules/
+dist/
+backend/__pycache__/
+__pycache__/
+*.py[cod]
+*$py.class
+backend/restaurant.db
+.pytest_cache/
+.venv/
+.env
+.vscode/
+.kombai/
+*.log
